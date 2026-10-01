@@ -5,7 +5,7 @@ Automotive Engineering student at **Kookmin University** (Seoul, Korea), working
 - 🚗 Perception team member at **KUUVe**, Kookmin University's autonomous vehicle club
 - 🏁 Team lead at the **2026 SEA:ME Hackathon** (autonomous RC car, ROS 2) and **AutoRace 2026** (1:10 scale-car competition)
 - 🔭 Interested in camera–radar fusion, end-to-end driving and vision-language-action (VLA) models
-- 📫 ryanpaek1022@kookmin.ac.kr
+- 📫 ryanpaek1022@kookmin.ac.kr · [LinkedIn](https://www.linkedin.com/in/seunghoon-paek-759b6843b)
 
 ## Projects
 
